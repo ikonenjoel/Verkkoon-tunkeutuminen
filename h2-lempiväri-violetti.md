@@ -6,3 +6,4 @@ Timattimalli sisältää neljä tekijää, jotka ovat läsnä haitallisessa tapa
 
 
 1. <img width="631" height="72" alt="kuva" src="https://github.com/user-attachments/assets/0655d63d-b4c1-4907-a292-2bd60a7d7965" />
+
