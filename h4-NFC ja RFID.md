@@ -5,6 +5,8 @@
 Käytössä on mm. iLOQ:n kotiavain, HSL:n matkakortti, pankkikortteja ja Samsungin NFC-tunniste. Mielestäni, olen suojautunut hyvin urkkimiselta, sillä kotiavain tarvitsee lukkopesän luodakseen virtaa ja ei toimi muuten, pankkikortit ovat hyvin suojattuja ja lompakossani, joten niihn ei noin vain työnnetä laitetta kiinni. 
 Samsungin NFC-tunnisteet ovat jossain laatikossa piilossa ja ovat tällä hetkellä tyhjiä, joten niiden urkkiminen on turhaa. 
 
+Puhelimessa on NFC aina päällä, mutta se ei aktivoidu ellei se ole aktiivisena, eli näyttö päällä ja lukitus poistettu.
+
 # b)
 
 APDU-komennot (Application Protocol Data Unit) ovat viestiyksiköitä, joita käytetään tiedonsiirtoon älykortin, kuten SIM-kortin, pankkikortin tai henkilökortin ja kortinlukijan välillä.
